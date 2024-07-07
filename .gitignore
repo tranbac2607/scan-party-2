@@ -1,0 +1,27 @@
+# Node.js files
+node_modules/
+
+# TypeScript build output
+dist/
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# macOS files
+.DS_Store
+
+# npm package lock file
+package-lock.json
+
+# Logs
+logs
+*.log
+
+# Environment variables
+.env
+
+# Other build files
+*.o
+*.obj
+*.swp
